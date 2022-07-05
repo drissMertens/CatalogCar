@@ -16,6 +16,12 @@
 
 //exercice : Composition vs heritage en c#
 
+//Composition     – Utilisé en injection de dépendance
+//                -Les objets peuvent être composés au sein de plusieurs classes.
+
+//Héritage        – Utilisé dans le polymorphisme
+//                – Une classe ne peut hériter que d’une seule classe.
+
 //Le pattern adapter
 
 //le but de ce pattern est de convertr l'interface attendue 
